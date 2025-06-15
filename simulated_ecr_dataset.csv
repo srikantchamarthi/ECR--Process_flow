@@ -1,0 +1,201 @@
+﻿ECR_ID,Date_Raised,Change_Type,Request_Department,Assigned_To,Priority,Status,Approval_Days,Implementation_Days,Total_Turnaround,Delay_Cause,Effectiveness_Rating
+ECR-1000,2024-01-10,Drawing,Supply Chain,Eng_8,Critical,In Review,9,0,,Vendor Delay,
+ECR-1001,2024-05-22,Material,Design,Eng_7,High,Open,6,0,,Late Approval,
+ECR-1002,2024-05-10,Process,Quality,Eng_9,Medium,In Review,5,0,,Late Approval,
+ECR-1003,2024-04-03,Material,Design,Eng_5,Low,Approved,2,0,,Late Approval,
+ECR-1004,2024-01-07,Process,Supply Chain,Eng_9,Medium,Approved,9,0,,Late Approval,
+ECR-1005,2024-04-08,Material,Production,Eng_4,Medium,Approved,2,0,,Vendor Delay,
+ECR-1006,2024-06-28,Material,Quality,Eng_1,Low,In Review,10,0,,Vendor Delay,
+ECR-1007,2024-05-27,Design,Quality,Eng_9,High,Approved,9,0,,Design Conflict,
+ECR-1008,2024-04-26,Material,Design,Eng_9,Medium,In Review,10,0,,Design Conflict,
+ECR-1009,2024-06-26,Software,Supply Chain,Eng_3,Medium,Rejected,7,0,,Vendor Delay,
+ECR-1010,2024-04-26,Material,Production,Eng_9,Low,Completed,4,7,11,Resource Shortage,3
+ECR-1011,2024-03-02,Software,Supply Chain,Eng_9,Medium,Completed,4,20,24,None,4
+ECR-1012,2024-01-09,Drawing,Quality,Eng_8,Critical,Completed,10,9,19,None,5
+ECR-1013,2024-02-26,Process,Production,Eng_5,High,Completed,6,5,11,Late Approval,2
+ECR-1014,2024-06-29,Drawing,Supply Chain,Eng_9,Low,In Review,10,0,,Late Approval,
+ECR-1015,2024-05-05,Process,Quality,Eng_10,Medium,In Review,9,0,,Vendor Delay,
+ECR-1016,2024-03-31,Material,Quality,Eng_5,High,Approved,6,0,,Vendor Delay,
+ECR-1017,2024-04-17,Material,Production,Eng_6,Critical,In Review,9,0,,Resource Shortage,
+ECR-1018,2024-06-15,Material,Supply Chain,Eng_7,Medium,Completed,7,15,22,Design Conflict,2
+ECR-1019,2024-03-26,Drawing,Design,Eng_9,High,Completed,1,16,17,None,4
+ECR-1020,2024-05-09,Material,Quality,Eng_7,Medium,Open,7,0,,Design Conflict,
+ECR-1021,2024-03-06,Material,Production,Eng_2,High,Rejected,3,0,,Missing Data,
+ECR-1022,2024-06-24,Material,Design,Eng_9,High,Approved,3,0,,Resource Shortage,
+ECR-1023,2024-03-25,Material,Supply Chain,Eng_10,Critical,In Review,4,0,,Missing Data,
+ECR-1024,2024-06-27,Design,Supply Chain,Eng_6,Critical,Open,4,0,,Resource Shortage,
+ECR-1025,2024-06-29,Drawing,Production,Eng_1,Low,Rejected,7,0,,Late Approval,
+ECR-1026,2024-01-15,Design,Production,Eng_9,Medium,Completed,2,2,4,Design Conflict,4
+ECR-1027,2024-03-13,Design,Supply Chain,Eng_6,Low,Rejected,5,0,,Late Approval,
+ECR-1028,2024-06-24,Process,Supply Chain,Eng_6,Low,In Review,5,0,,Design Conflict,
+ECR-1029,2024-05-14,Drawing,Design,Eng_7,High,Approved,5,0,,Resource Shortage,
+ECR-1030,2024-02-06,Drawing,Quality,Eng_5,Low,In Review,6,0,,Resource Shortage,
+ECR-1031,2024-02-19,Drawing,Supply Chain,Eng_7,High,Rejected,7,0,,Resource Shortage,
+ECR-1032,2024-02-26,Process,Supply Chain,Eng_1,High,In Review,8,0,,Resource Shortage,
+ECR-1033,2024-04-01,Design,Design,Eng_2,Medium,In Review,6,0,,Vendor Delay,
+ECR-1034,2024-03-05,Design,Quality,Eng_6,Medium,Open,5,0,,Vendor Delay,
+ECR-1035,2024-04-08,Material,Production,Eng_7,Medium,Completed,7,5,12,Vendor Delay,1
+ECR-1036,2024-04-06,Software,Supply Chain,Eng_3,High,Approved,8,0,,Resource Shortage,
+ECR-1037,2024-02-02,Software,Supply Chain,Eng_2,High,In Review,5,0,,Late Approval,
+ECR-1038,2024-03-17,Material,Production,Eng_9,Critical,Open,9,0,,Resource Shortage,
+ECR-1039,2024-06-24,Drawing,Supply Chain,Eng_2,Medium,In Review,4,0,,Vendor Delay,
+ECR-1040,2024-01-31,Software,Production,Eng_4,Critical,Approved,9,0,,Design Conflict,
+ECR-1041,2024-02-25,Material,Design,Eng_4,Low,Approved,7,0,,Late Approval,
+ECR-1042,2024-05-17,Material,Quality,Eng_5,High,Completed,4,18,22,Resource Shortage,2
+ECR-1043,2024-03-13,Process,Quality,Eng_2,Medium,Open,9,0,,Resource Shortage,
+ECR-1044,2024-03-30,Material,Production,Eng_1,Medium,Rejected,1,0,,Resource Shortage,
+ECR-1045,2024-06-01,Process,Quality,Eng_9,Medium,Completed,7,11,18,Design Conflict,3
+ECR-1046,2024-01-26,Design,Supply Chain,Eng_2,High,Approved,1,0,,Resource Shortage,
+ECR-1047,2024-02-25,Drawing,Production,Eng_10,High,Completed,9,20,29,Missing Data,4
+ECR-1048,2024-01-29,Software,Quality,Eng_1,Medium,Approved,2,0,,Vendor Delay,
+ECR-1049,2024-06-09,Design,Design,Eng_1,Critical,Approved,10,0,,Missing Data,
+ECR-1050,2024-04-02,Software,Quality,Eng_2,High,Completed,3,20,23,None,2
+ECR-1051,2024-05-01,Material,Production,Eng_10,Medium,Approved,5,0,,Design Conflict,
+ECR-1052,2024-05-08,Drawing,Production,Eng_7,High,Approved,7,0,,Late Approval,
+ECR-1053,2024-04-01,Design,Quality,Eng_10,High,Completed,9,20,29,Vendor Delay,2
+ECR-1054,2024-03-22,Drawing,Production,Eng_6,Medium,Approved,9,0,,Resource Shortage,
+ECR-1055,2024-03-19,Design,Supply Chain,Eng_6,Low,In Review,7,0,,Missing Data,
+ECR-1056,2024-05-14,Design,Quality,Eng_1,High,Open,6,0,,Vendor Delay,
+ECR-1057,2024-04-18,Design,Design,Eng_4,Low,Approved,9,0,,Vendor Delay,
+ECR-1058,2024-02-04,Software,Supply Chain,Eng_5,Critical,Completed,1,7,8,None,5
+ECR-1059,2024-03-09,Software,Quality,Eng_7,Low,In Review,10,0,,Missing Data,
+ECR-1060,2024-03-19,Design,Supply Chain,Eng_6,Low,Completed,6,5,11,Design Conflict,4
+ECR-1061,2024-06-06,Drawing,Quality,Eng_10,High,Approved,8,0,,Missing Data,
+ECR-1062,2024-05-25,Drawing,Supply Chain,Eng_4,High,In Review,6,0,,Vendor Delay,
+ECR-1063,2024-04-09,Process,Production,Eng_9,Low,Approved,4,0,,Design Conflict,
+ECR-1064,2024-01-31,Design,Quality,Eng_3,High,In Review,10,0,,Design Conflict,
+ECR-1065,2024-02-19,Process,Quality,Eng_4,Low,Completed,10,6,16,Resource Shortage,2
+ECR-1066,2024-04-10,Design,Design,Eng_9,Medium,Approved,10,0,,Resource Shortage,
+ECR-1067,2024-06-12,Drawing,Quality,Eng_10,Medium,Rejected,6,0,,Resource Shortage,
+ECR-1068,2024-02-02,Software,Design,Eng_3,High,Open,8,0,,Late Approval,
+ECR-1069,2024-05-15,Design,Production,Eng_7,Medium,Approved,9,0,,Missing Data,
+ECR-1070,2024-05-21,Design,Supply Chain,Eng_5,High,Completed,6,20,26,Late Approval,4
+ECR-1071,2024-02-24,Drawing,Quality,Eng_6,High,Open,9,0,,Design Conflict,
+ECR-1072,2024-03-03,Process,Production,Eng_5,High,Completed,3,2,5,Late Approval,4
+ECR-1073,2024-03-25,Process,Supply Chain,Eng_8,Medium,In Review,9,0,,Missing Data,
+ECR-1074,2024-02-13,Process,Supply Chain,Eng_9,Medium,Approved,10,0,,Resource Shortage,
+ECR-1075,2024-02-27,Process,Production,Eng_10,High,Rejected,2,0,,Vendor Delay,
+ECR-1076,2024-05-04,Material,Supply Chain,Eng_4,High,Approved,1,0,,Late Approval,
+ECR-1077,2024-05-15,Material,Quality,Eng_4,Medium,In Review,3,0,,Vendor Delay,
+ECR-1078,2024-01-21,Design,Design,Eng_4,Medium,Completed,7,5,12,Vendor Delay,5
+ECR-1079,2024-02-02,Drawing,Supply Chain,Eng_9,Medium,Rejected,6,0,,Design Conflict,
+ECR-1080,2024-05-06,Process,Supply Chain,Eng_4,High,Rejected,3,0,,Missing Data,
+ECR-1081,2024-03-25,Material,Design,Eng_5,High,Rejected,5,0,,Design Conflict,
+ECR-1082,2024-04-10,Process,Supply Chain,Eng_5,Medium,Rejected,8,0,,Missing Data,
+ECR-1083,2024-06-16,Software,Design,Eng_1,Critical,Approved,8,0,,Design Conflict,
+ECR-1084,2024-05-17,Process,Quality,Eng_4,Medium,Approved,6,0,,Vendor Delay,
+ECR-1085,2024-03-02,Process,Production,Eng_10,Low,Rejected,10,0,,Missing Data,
+ECR-1086,2024-04-03,Process,Supply Chain,Eng_1,Medium,Rejected,5,0,,Resource Shortage,
+ECR-1087,2024-01-01,Material,Supply Chain,Eng_9,Low,Open,5,0,,Resource Shortage,
+ECR-1088,2024-05-22,Drawing,Supply Chain,Eng_9,Medium,Open,1,0,,Missing Data,
+ECR-1089,2024-03-29,Drawing,Quality,Eng_9,Medium,Open,7,0,,Resource Shortage,
+ECR-1090,2024-06-16,Process,Supply Chain,Eng_4,High,In Review,3,0,,Design Conflict,
+ECR-1091,2024-04-15,Process,Quality,Eng_10,Medium,Completed,3,9,12,Resource Shortage,4
+ECR-1092,2024-03-03,Material,Production,Eng_9,Medium,Open,10,0,,Late Approval,
+ECR-1093,2024-05-28,Drawing,Design,Eng_4,Low,In Review,5,0,,Design Conflict,
+ECR-1094,2024-06-08,Drawing,Production,Eng_9,Medium,Approved,4,0,,Resource Shortage,
+ECR-1095,2024-04-25,Material,Production,Eng_9,Low,Approved,2,0,,Vendor Delay,
+ECR-1096,2024-04-01,Software,Production,Eng_3,High,In Review,2,0,,Vendor Delay,
+ECR-1097,2024-01-12,Process,Quality,Eng_3,High,In Review,5,0,,Late Approval,
+ECR-1098,2024-02-27,Design,Design,Eng_4,Medium,Approved,10,0,,Missing Data,
+ECR-1099,2024-03-26,Material,Quality,Eng_6,Medium,Completed,2,20,22,None,5
+ECR-1100,2024-02-12,Process,Production,Eng_9,High,Rejected,1,0,,Missing Data,
+ECR-1101,2024-05-30,Process,Quality,Eng_4,Medium,Completed,10,3,13,Design Conflict,1
+ECR-1102,2024-03-06,Material,Production,Eng_10,Low,Completed,4,6,10,Design Conflict,3
+ECR-1103,2024-03-06,Drawing,Supply Chain,Eng_5,Critical,Approved,2,0,,Missing Data,
+ECR-1104,2024-06-14,Software,Supply Chain,Eng_10,Low,Completed,4,11,15,Late Approval,2
+ECR-1105,2024-02-26,Process,Production,Eng_1,High,Approved,8,0,,Missing Data,
+ECR-1106,2024-01-29,Design,Supply Chain,Eng_5,Medium,Approved,7,0,,Design Conflict,
+ECR-1107,2024-01-02,Process,Design,Eng_8,High,Completed,10,4,14,None,3
+ECR-1108,2024-01-31,Drawing,Supply Chain,Eng_3,Medium,Rejected,3,0,,Resource Shortage,
+ECR-1109,2024-06-09,Material,Design,Eng_6,Low,In Review,8,0,,Vendor Delay,
+ECR-1110,2024-05-25,Design,Design,Eng_3,Medium,Approved,5,0,,Missing Data,
+ECR-1111,2024-06-03,Material,Production,Eng_5,Low,Approved,2,0,,Resource Shortage,
+ECR-1112,2024-03-14,Material,Production,Eng_3,Medium,Completed,1,14,15,None,5
+ECR-1113,2024-05-07,Material,Production,Eng_7,High,Approved,8,0,,Vendor Delay,
+ECR-1114,2024-05-15,Drawing,Supply Chain,Eng_7,Medium,Approved,2,0,,Design Conflict,
+ECR-1115,2024-01-10,Design,Production,Eng_4,High,Completed,6,8,14,Design Conflict,4
+ECR-1116,2024-04-30,Design,Supply Chain,Eng_4,Medium,Approved,8,0,,Late Approval,
+ECR-1117,2024-06-26,Software,Design,Eng_6,Medium,Approved,10,0,,Resource Shortage,
+ECR-1118,2024-05-01,Design,Design,Eng_10,Medium,Completed,6,18,24,Design Conflict,1
+ECR-1119,2024-01-03,Material,Supply Chain,Eng_2,Medium,In Review,9,0,,Missing Data,
+ECR-1120,2024-06-28,Software,Quality,Eng_6,Low,Approved,10,0,,Late Approval,
+ECR-1121,2024-01-05,Material,Quality,Eng_1,High,Open,4,0,,Missing Data,
+ECR-1122,2024-02-08,Process,Supply Chain,Eng_1,Medium,Rejected,5,0,,Vendor Delay,
+ECR-1123,2024-05-05,Process,Design,Eng_5,Low,Open,2,0,,Missing Data,
+ECR-1124,2024-03-17,Material,Quality,Eng_10,Medium,Approved,3,0,,Missing Data,
+ECR-1125,2024-05-05,Design,Supply Chain,Eng_3,Low,Rejected,7,0,,Design Conflict,
+ECR-1126,2024-04-24,Design,Design,Eng_6,High,Approved,6,0,,Vendor Delay,
+ECR-1127,2024-04-05,Material,Supply Chain,Eng_8,Medium,Approved,2,0,,Resource Shortage,
+ECR-1128,2024-01-28,Process,Quality,Eng_2,Medium,Completed,8,12,20,Resource Shortage,2
+ECR-1129,2024-02-01,Material,Supply Chain,Eng_2,High,Rejected,1,0,,Vendor Delay,
+ECR-1130,2024-02-12,Software,Design,Eng_7,Medium,Approved,5,0,,Late Approval,
+ECR-1131,2024-05-31,Design,Supply Chain,Eng_7,High,Open,10,0,,Late Approval,
+ECR-1132,2024-02-01,Software,Quality,Eng_10,Medium,Rejected,3,0,,Design Conflict,
+ECR-1133,2024-03-10,Process,Production,Eng_5,High,Rejected,5,0,,Missing Data,
+ECR-1134,2024-03-24,Material,Design,Eng_5,High,Rejected,6,0,,Late Approval,
+ECR-1135,2024-04-01,Design,Design,Eng_2,Low,Rejected,8,0,,Design Conflict,
+ECR-1136,2024-01-15,Drawing,Supply Chain,Eng_8,High,Open,5,0,,Vendor Delay,
+ECR-1137,2024-01-30,Material,Quality,Eng_5,High,Open,6,0,,Missing Data,
+ECR-1138,2024-03-13,Drawing,Design,Eng_9,High,Rejected,9,0,,Design Conflict,
+ECR-1139,2024-04-27,Design,Supply Chain,Eng_7,Medium,Completed,7,2,9,Late Approval,1
+ECR-1140,2024-01-11,Process,Supply Chain,Eng_9,Medium,Completed,3,5,8,Late Approval,5
+ECR-1141,2024-05-19,Process,Production,Eng_2,Low,Open,7,0,,Late Approval,
+ECR-1142,2024-03-06,Material,Supply Chain,Eng_1,Medium,Open,10,0,,Late Approval,
+ECR-1143,2024-04-21,Material,Design,Eng_7,High,In Review,10,0,,Missing Data,
+ECR-1144,2024-02-04,Software,Design,Eng_3,High,In Review,6,0,,Resource Shortage,
+ECR-1145,2024-06-07,Design,Supply Chain,Eng_3,Medium,Open,9,0,,Late Approval,
+ECR-1146,2024-04-24,Design,Quality,Eng_4,Medium,Completed,7,5,12,Resource Shortage,1
+ECR-1147,2024-06-28,Software,Quality,Eng_4,Low,Approved,10,0,,Missing Data,
+ECR-1148,2024-05-24,Software,Design,Eng_6,High,Approved,4,0,,Missing Data,
+ECR-1149,2024-01-06,Software,Supply Chain,Eng_5,High,Approved,3,0,,Missing Data,
+ECR-1150,2024-01-26,Design,Production,Eng_7,Low,Approved,6,0,,Vendor Delay,
+ECR-1151,2024-06-15,Software,Production,Eng_6,Critical,In Review,5,0,,Vendor Delay,
+ECR-1152,2024-02-17,Design,Supply Chain,Eng_3,Medium,Approved,8,0,,Design Conflict,
+ECR-1153,2024-03-10,Material,Supply Chain,Eng_9,Medium,Completed,3,3,6,Resource Shortage,5
+ECR-1154,2024-02-09,Process,Production,Eng_8,Medium,Completed,10,9,19,Vendor Delay,2
+ECR-1155,2024-04-24,Drawing,Quality,Eng_3,Medium,Rejected,2,0,,Design Conflict,
+ECR-1156,2024-05-03,Software,Production,Eng_8,Low,Completed,4,11,15,Vendor Delay,5
+ECR-1157,2024-03-25,Design,Quality,Eng_10,Low,Approved,4,0,,Missing Data,
+ECR-1158,2024-05-23,Process,Production,Eng_2,Medium,Rejected,8,0,,Vendor Delay,
+ECR-1159,2024-06-11,Material,Design,Eng_9,Low,Approved,9,0,,Late Approval,
+ECR-1160,2024-01-23,Material,Design,Eng_5,High,Approved,1,0,,Design Conflict,
+ECR-1161,2024-06-03,Process,Production,Eng_8,High,In Review,2,0,,Missing Data,
+ECR-1162,2024-06-10,Material,Design,Eng_7,Critical,In Review,9,0,,Late Approval,
+ECR-1163,2024-01-10,Design,Production,Eng_9,Medium,In Review,6,0,,Late Approval,
+ECR-1164,2024-02-09,Drawing,Design,Eng_4,Medium,In Review,8,0,,Vendor Delay,
+ECR-1165,2024-01-31,Process,Quality,Eng_7,Medium,In Review,2,0,,Resource Shortage,
+ECR-1166,2024-04-12,Software,Quality,Eng_9,High,Completed,7,9,16,Late Approval,3
+ECR-1167,2024-05-16,Design,Design,Eng_3,Low,In Review,1,0,,Design Conflict,
+ECR-1168,2024-01-21,Software,Design,Eng_1,Medium,Completed,7,12,19,None,2
+ECR-1169,2024-04-12,Material,Design,Eng_3,Critical,Open,8,0,,Missing Data,
+ECR-1170,2024-05-22,Process,Design,Eng_10,Medium,Completed,9,15,24,Vendor Delay,4
+ECR-1171,2024-06-26,Design,Design,Eng_9,Medium,In Review,1,0,,Design Conflict,
+ECR-1172,2024-03-28,Material,Quality,Eng_4,High,Completed,8,19,27,Resource Shortage,2
+ECR-1173,2024-03-21,Process,Design,Eng_8,High,Open,5,0,,Missing Data,
+ECR-1174,2024-02-02,Drawing,Production,Eng_1,Medium,Approved,5,0,,Resource Shortage,
+ECR-1175,2024-03-25,Process,Supply Chain,Eng_1,High,In Review,6,0,,Vendor Delay,
+ECR-1176,2024-02-01,Material,Design,Eng_3,Critical,Approved,7,0,,Vendor Delay,
+ECR-1177,2024-06-25,Design,Quality,Eng_7,Medium,Approved,6,0,,Resource Shortage,
+ECR-1178,2024-02-08,Material,Quality,Eng_10,Low,Approved,8,0,,Design Conflict,
+ECR-1179,2024-04-04,Software,Quality,Eng_10,High,Approved,10,0,,Vendor Delay,
+ECR-1180,2024-06-29,Drawing,Quality,Eng_10,Medium,Rejected,5,0,,Design Conflict,
+ECR-1181,2024-01-28,Drawing,Quality,Eng_6,Medium,Approved,10,0,,Late Approval,
+ECR-1182,2024-02-26,Drawing,Production,Eng_7,Critical,Approved,2,0,,Resource Shortage,
+ECR-1183,2024-02-24,Drawing,Quality,Eng_5,Critical,Rejected,1,0,,Design Conflict,
+ECR-1184,2024-01-04,Drawing,Production,Eng_6,Critical,Rejected,6,0,,Late Approval,
+ECR-1185,2024-04-22,Design,Supply Chain,Eng_6,Medium,Approved,3,0,,Late Approval,
+ECR-1186,2024-05-17,Material,Design,Eng_7,Low,Open,6,0,,Missing Data,
+ECR-1187,2024-01-18,Design,Design,Eng_6,High,Open,6,0,,Late Approval,
+ECR-1188,2024-04-13,Material,Supply Chain,Eng_10,High,Open,3,0,,Missing Data,
+ECR-1189,2024-01-30,Drawing,Design,Eng_6,Critical,Open,1,0,,Late Approval,
+ECR-1190,2024-02-22,Material,Supply Chain,Eng_9,Medium,In Review,1,0,,Vendor Delay,
+ECR-1191,2024-05-07,Design,Production,Eng_6,High,Completed,4,20,24,Vendor Delay,4
+ECR-1192,2024-01-01,Software,Quality,Eng_7,Critical,Completed,1,12,13,Late Approval,5
+ECR-1193,2024-04-11,Software,Production,Eng_9,Medium,Completed,2,19,21,Design Conflict,3
+ECR-1194,2024-04-26,Process,Production,Eng_4,Medium,In Review,7,0,,Late Approval,
+ECR-1195,2024-06-03,Software,Quality,Eng_6,High,Completed,9,7,16,Design Conflict,4
+ECR-1196,2024-02-12,Material,Quality,Eng_3,Low,Approved,2,0,,Missing Data,
+ECR-1197,2024-06-20,Material,Design,Eng_3,High,Approved,9,0,,Vendor Delay,
+ECR-1198,2024-04-26,Material,Quality,Eng_6,High,Approved,9,0,,Resource Shortage,
+ECR-1199,2024-02-04,Design,Supply Chain,Eng_7,High,Approved,1,0,,Vendor Delay,
