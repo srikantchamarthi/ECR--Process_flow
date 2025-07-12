@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error
 ### loading dataset
 file_path = '/Users/srikantchamarthi/Documents/AI/ECR Process/simulated_ecr_dataset.csv'
 df = pd.read_csv(file_path)
-#print(df.head())
+print(df.head())
 #print(df.tail())
 
 '''
@@ -74,4 +74,36 @@ categorical_cols = ['Change_Type', 'Request_Department', 'Assigned_To', 'Priorit
 for col in categorical_cols:
     df[col] = df[col].astype('category').cat.codes
 
-print(df.head())
+#print(df.head())
+
+
+##Predict or visualize Total_Turnaround, Group by Department, Priority, or Change_Type and investigate which areas cause most delays
+
+sns.set(style="whitegrid")
+plt.figure(figsize=(10, 5))
+sns.boxplot(data=df, x='Request_Department', y='Total_Turnaround')
+plt.title('Total Turnaround by Request Department')
+plt.xticks(rotation=45)
+plt.tight_layout()
+#plt.show()
+
+##delay by priority
+plt.figure(figsize =(8,4))
+sns.boxplot(data=df, x='Priority', y='Total_Turnaround')
+plt.title('Total Turnaround by Priority')
+plt.show()
+
+#turaround by change type
+plt.figure(figsize=(10, 5))
+sns.boxplot(data=df, x='Change_Type', y='Total_Turnaround')
+plt.title('Total Turnaround by Change Type')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+#correlation matrix
+
+plt.figure(figsize=(10, 6))
+sns.heatmap(df.corr(numeric_only=True), annot=True, cmap='coolwarm')
+plt.title('Correlation Matrix')
+plt.show()
